@@ -1,0 +1,12 @@
+pre {
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+  max-height: 400px; /* or any value you prefer */
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  color: #333;
+}
